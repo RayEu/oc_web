@@ -2,6 +2,9 @@
 
 基于 opencode serve HTTP API 的 Session 会话记录查看器。
 
+<img width="1363" height="644" alt="image" src="https://github.com/user-attachments/assets/1706773d-df57-457f-8275-4bfc73ea9606" />
+
+
 ## 功能
 
 - **Session 列表** (左侧): 展示所有会话，显示标题、ID、agent、时间，支持按 ID 搜索
@@ -44,6 +47,8 @@ python -m http.server 8080
 浏览器打开 `http://127.0.0.1:8080/index.html`
 
 ## API 说明
+
+opencode官方API接口，目前是V2版本，https://opencode.ai/v2/docs/api
 
 | 功能 | API 端点 | 版本 |
 |------|----------|------|
