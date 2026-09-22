@@ -49,6 +49,7 @@ python -m http.server 8080
 ## API 说明
 
 opencode官方API接口，目前是V2版本，https://opencode.ai/v2/docs/api
+但是GitHub上的release版本还是1.18.32。
 
 | 功能 | API 端点 | 版本 |
 |------|----------|------|
